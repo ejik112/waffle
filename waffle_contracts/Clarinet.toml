@@ -10,6 +10,11 @@ path = 'contracts/access_control.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.audit_trail_wallet]
+path = 'contracts/audit_trail_wallet.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.historical_snapshots]
 path = 'contracts/historical_snapshots.clar'
 clarity_version = 2
