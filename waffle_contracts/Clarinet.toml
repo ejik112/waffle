@@ -29,6 +29,11 @@ epoch = 2.5
 path = 'contracts/start_and_end_time.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.storage_and_admin_role]
+path = 'contracts/storage_and_admin_role.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
