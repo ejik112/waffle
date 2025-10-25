@@ -20,6 +20,11 @@ path = 'contracts/historical_snapshots.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.multi_send_with_role_based_access]
+path = 'contracts/multi_send_with_role_based_access.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.start_and_end_time]
 path = 'contracts/start_and_end_time.clar'
 clarity_version = 2
